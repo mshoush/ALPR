@@ -6,3 +6,6 @@ Automatic License Plate Recognition (ALPR) has been a frequent topic of research
               python Main.py -v project.mp4
               
               
+# Expected output:
+
+![Screenshot](out.png)
