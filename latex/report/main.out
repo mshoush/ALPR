@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{License\040Plate\040Detection}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{Character\040Segmentation}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{Character\040Recognition}{subsection.1.1}% 4
+\BOOKMARK [1][-]{section.2}{RELATED\040WORK}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Object\040Detectors\040based\040on\040Deep\040Learning}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{License\040Plate\040Pipeline}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{PROPOSED\040APPROACH}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Preprocessing}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{License\040Plate\040\(LP\)}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Character\040Segmentation}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.4}{Character\040Recognition}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.5}{Experiments}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Conclusion\040and\040discussion}{}% 14
+\BOOKMARK [1][-]{section.5}{Future\040Work}{}% 15
