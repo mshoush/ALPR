@@ -8,8 +8,10 @@ Automatic License Plate Recognition (ALPR) has three main steps that can be summ
 ![Screenshot](./latex/report/stages.png)
 
 # Run This Project:
-
-              python Main.py -v project.mp4
+To run this project you have to install tensorflow & tflearn.
+             
+                  pip install tensorflow tflearn
+                  python Main.py -v project.mp4
               
               
 # Sample of the output:
