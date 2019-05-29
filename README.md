@@ -4,7 +4,8 @@ Automatic License Plate Recognition (ALPR) has been a frequent topic of research
 
 # Project satges:
 Automatic License Plate Recognition (ALPR) has three main steps that can be summiriezed in below image. 
-![Screenshot](./latex/report/stages.pngout.png)
+                                  
+                                  ![Screenshot](./latex/report/stages.png)
 
 # Run This Project:
 
